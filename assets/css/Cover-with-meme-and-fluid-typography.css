@@ -1,0 +1,39 @@
+#site-cover {
+  background-size: cover;
+  background-image: url('../../assets/img/1234.jpg');
+  background-position: center;
+  height: 100vh;
+  padding-top: calc(40vh - 12vw);
+}
+
+#site-meme {
+  margin: 0 auto;
+  width: 60vw;
+  background-color: rgba(255,255,255,0.75);
+  padding: 4vw 2vw;
+}
+
+#site-meme h1 {
+  font-weight: 500;
+  letter-spacing: 0.3vw;
+  color: #333;
+  padding: 0.7vw 0;
+  margin: 0;
+}
+
+#site-meme #meme-first-line {
+  font-size: 4vw;
+}
+
+#site-meme #meme-second-line {
+  font-size: 3.56vw;
+}
+
+#site-meme #meme-third-line {
+  font-size: 2.43vw;
+}
+
+#site-meme #meme-fourth-line {
+  font-size: 7.6vw;
+}
+
